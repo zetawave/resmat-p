@@ -1,0 +1,15 @@
+{
+  "name": "resmat",
+  "displayName": "resmat",
+  "expo": {
+    "name": "resmat",
+    "slug": "resmat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.zetawave.resmat"
+    }
+  }
+}

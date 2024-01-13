@@ -1,0 +1,20 @@
+{
+    "it":{
+        "search_place":"Cerca...",
+        "subtitle_app_bar":"Monitora l'acqua di Torino e provincia",
+        "app_name":"reSMAT",
+        "no_result":"Nessun risultato",
+        "loading":"Caricamento...",
+        "archive":"Archivio",
+        "water":"Acqua",
+        "wp":"Presto in arrivo!",
+        "soon":"In arrivo",
+        "infoDialogTitle":"Come leggo i valori riportati?",
+        "infoDialogMessage":"Ogni card rappresenta un comune.\n\nPer ogni comune è possibile visualizzare i parametri dell'acqua, accanto ad ogni valore è scritta la corrispondente unità di misura e il valore limite (qualora previsto) secondo il D.lgs. 31/01.\n\nDunque ad esempio: <valore> [ unità || <valore D.lgs. 31/01> ]",
+        "aboutDialogTitle":"Informazioni sull'app",
+        "aboutDialogMessage":"Sviluppatore: Zetawave\nVersione: {version}\n\n{mission}",
+        "mission":"L'acqua è un bene primario e prezioso, la SMAT Torino mette a disposizione nel loro sito una tabella con le medie più recenti sulla qualità delle acque con relativi parametri.\nreSMAT vuole consentire a chiunque di accedere a queste informazioni in modo semplice, efficace ed immediato dando la possibilità di monitorare costantemente questi valori direttamente sul nostro Smartphone.\n\nQuesta applicazione è frutto del solo ed unico lavoro dello sviluppatore e SMAT Torino non fornisce alcun servizio e/o supporto di alcun genere alla medesima.\nQuest'ultima si appoggia esclusivamente alle informazioni grezze fornite dal sito https://www.smatorino.it/monitoraggio-acque/.",
+        "version":"1.0.0",
+        "ok":"Ok"
+    }
+}
